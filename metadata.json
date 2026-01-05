@@ -1,0 +1,8 @@
+{
+  "name": "NOVA - Smart LMS",
+  "description": "An all-in-one digital learning platform with AI features, attendance tracking, and live classroom management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
